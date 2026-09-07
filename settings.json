@@ -83,7 +83,7 @@
     }
   },
   "chat": {
-    "respond": true,
+    "respond": false,
     "tpWhitelist": ["jablm0st"]
   }
 }
