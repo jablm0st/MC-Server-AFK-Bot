@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "masnad2chooligans.play.hosting",
+    "ip": "d1csmp.play.hosting",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 600,
       "messages": [
